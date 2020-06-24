@@ -1,2 +1,2 @@
-# JPG-to-PNG-Converter
-Converts jpeg images to png. Built with Python and the Pillow Library
+# PNG-to-JPG-Converter
+Converts png images to jpg. Built with Python and the Pillow Library
